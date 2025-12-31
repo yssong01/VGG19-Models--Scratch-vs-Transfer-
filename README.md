@@ -135,4 +135,5 @@ python train.py --model transfer --augmentation true
 ## 출처
 
 이미지 : VGG - 19 Architecture
+
 https://www.geeksforgeeks.org/computer-vision/vgg-net-architecture-explained/
