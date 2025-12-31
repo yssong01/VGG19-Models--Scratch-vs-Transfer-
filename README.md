@@ -1,7 +1,5 @@
 # VGG19 이진 분류: Scratch vs. Transfer Learning
 
-### Team : 경수오빠못해조
-
 ## 1. 개요
 
 본 프로젝트는 VGG19 Architecture를 활용하여 산타(Santa)와 일반인(Normal) 이미지를 분류하는 이진 분류(Binary Classification) 과제를 수행합니다.
@@ -137,3 +135,7 @@ python train.py --model transfer --augmentation true
 이미지 : VGG - 19 Architecture
 
 https://www.geeksforgeeks.org/computer-vision/vgg-net-architecture-explained/
+
+## Team Project
+
+### 경수오빠못해조
